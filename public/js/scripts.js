@@ -39,7 +39,7 @@ function showSection(element) {
         allSection[i].classList.remove('active');
     }
 
-    const target = element.getAttribute('href').split('#')[1];
+    const target = element.getAttribute('href').split('#')[0];
     document.querySelector("#" + target).classList.add('active');
 
 }

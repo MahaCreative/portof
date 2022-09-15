@@ -51,7 +51,7 @@
         {{-- Main Content Start --}}
         <div class="main-content">
             {{-- Home Section Start --}}
-            <section id="home" class="home section">
+            <section id="home" class="home active section">
                 <div class="container">
                     <div class="row">
                         <div class="home-info padd-15">
